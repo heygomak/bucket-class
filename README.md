@@ -5,4 +5,5 @@
 
 # :mag_right: Preview
 ![메인페이지 & 검색리스트](bucketclass_main.gif)
+![상세페이지 미리보기](singlepage.gif)
 
